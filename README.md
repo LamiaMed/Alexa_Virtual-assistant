@@ -1,15 +1,33 @@
+* To install packages : 
+
 **Speech recongnition package**
 ```
-#pip install SpeechRecognition
+pip install SpeechRecognition
 
 ```
-## Text to Speech v3
+## Text to Speech v3 package
 ```
 pip install pyttsx3
 
 ```
-## python pyaudio
+## python pyaudio package
 ```
 pip install PyAudio
 sudo apt install python3-pyaudio
+```
+** wikipedia package
+```
+pip install wikipedia
+
+```
+** whatkit package
+```
+pip install pywhatkit
+
+```
+
+** jokes package
+```
+pip install pyjokes
+
 ```
